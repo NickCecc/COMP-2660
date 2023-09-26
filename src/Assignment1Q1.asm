@@ -1,4 +1,4 @@
-ASSIGNMENT 1 SECTION 2 QUESTION 1
+;ASSIGNMENT 1 SECTION 2 QUESTION 1
 ; ./run.sh source to run program
 ; Name: Nicholas Cecchin
 ; Date: September 23, 2023
@@ -20,12 +20,22 @@ INCLUDELIB user32.lib
 .code
 main PROC
 	; code goes here
+	; Initialize Y
 	mov eax, 5
 	mov Y, eax
+
 	; GOAL: X = (Y + 4) * 3
+	
+	; Load Y in eax
 	mov eax, Y 
+
+	; add 4 to eax
 	add eax, 4
+
+	; multiply eax by 4
 	imul eax, 3
+
+	; store computation in X
 	mov X, eax
 
 
