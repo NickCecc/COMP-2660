@@ -75,16 +75,16 @@ main PROC
 
 
 ; WAS TOLD BY TA TO OMIT THIS PART DUE TO MOV AL, 720H CAUSING ERROR
-    mov al,-128
-    sub al,1
-    mov al,0DFh
-    add al,32h
-    mov al,720h
-    sub al,0E6h
-    mov bl,-127
-    dec bl
+    ;mov al,-128
+    ;sub al,1
+    ;mov al,0DFh
+    ;add al,32h
+    ;mov al,720h
+    ;sub al,0E6h
+    ;mov bl,-127
+    ;dec bl
     ; (D)
-    call DumpRegs
+    ;call DumpRegs
     ; CF = 1
     ; SF = 1
     ; ZF = 0 RESULT IS NOT ZERO
