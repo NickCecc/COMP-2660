@@ -1,5 +1,5 @@
 ;LAB 2
-; ./run.sh source to run program
+; ./run.sh Lab2
 ; Name: Nicholas Cecchin
 ; Date: September 26, 2023
 ; ID: 110101683

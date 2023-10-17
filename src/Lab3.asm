@@ -1,5 +1,5 @@
 ; LAB3
-; ./rundocker.sh Lab3
+; ./run.sh Lab3
 ; Name: Nicholas Cecchin
 ; Date: October 3 2023
 ; ID: 110101683

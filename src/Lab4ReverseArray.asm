@@ -1,5 +1,5 @@
 ; LAB4
-; ./rundocker.sh Lab4
+; ./run.sh Lab4ReverseArray
 ; Name: Nicholas Cecchin
 ; Date: October 17 2023
 ; ID: 110101683

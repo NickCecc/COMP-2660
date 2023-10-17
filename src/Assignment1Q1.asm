@@ -1,5 +1,5 @@
 ;ASSIGNMENT 1 SECTION 2 QUESTION 1
-; ./run.sh source to run program
+; ./run.sh Assignment1Q1 to run program
 ; Name: Nicholas Cecchin
 ; Date: September 23, 2023
 ; ID: 110101683
