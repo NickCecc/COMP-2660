@@ -43,7 +43,7 @@ main PROC
     mov eax, LENGTHOF myWords ; eax = 4
     mov eax, SIZEOF myWords ; eax = 8
     mov eax, SIZEOF myString ; eax = 5
-
+    
 	exit
 
 main ENDP
