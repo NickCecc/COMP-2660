@@ -1,4 +1,4 @@
-;LAB 5
+;LAB 5 Q2
 ; ./run.sh Lab5
 ; Name: Nicholas Cecchin
 ; Date: October 24, 2023
