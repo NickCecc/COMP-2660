@@ -1,4 +1,4 @@
-;ASSIGNMENT 2 SECTION 2A
+;ASSIGNMENT 2 SECTION 2 QUESTION A
 ; ./run.sh Assignment2S2A to run program
 ; Name: Nicholas Cecchin
 ; Date: October 22, 2023
