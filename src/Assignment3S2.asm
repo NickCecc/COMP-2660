@@ -19,7 +19,7 @@ INCLUDELIB user32.lib
     sum DWORD ?
 
     str1 BYTE 0ah, "Colored text on the console", 0
-    colorArr DWORD Red, Green, Blue, Yellow
+    colorArr DWORD Yellow, Blue, Red, Green
 
 
 .code
