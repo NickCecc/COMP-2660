@@ -69,7 +69,7 @@ displayStr:
     mov eax, Gray
     call SetTextColor
 
-
+    call DumpRegs
 ; Question 3: program that corresponds to the following flowchart diagram in Figure 2. Indicate in the comments the function of the program.
 
 ; Save esi and ecx on the stack
