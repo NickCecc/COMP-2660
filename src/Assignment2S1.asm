@@ -26,6 +26,7 @@ main PROC
     mov al,[esi]
     mov al,[esi+3]
     mov esi,OFFSET myWords + 2 
+     call DumpRegs
 
     mov ax,[esi]
     mov edi,8
